@@ -1,1 +1,2 @@
 Estudiamos maquetacion.
+Estudiamos GIT.
